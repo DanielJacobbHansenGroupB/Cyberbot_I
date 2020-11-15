@@ -210,6 +210,7 @@ pip-log.txt
 
 #Translations
 *.mo
+.DanielJacobbHansen
 
 #Mr Developer
 .mr.developer.cfg
